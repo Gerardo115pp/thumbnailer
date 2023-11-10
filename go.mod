@@ -1,4 +1,4 @@
-module github.com/Gerardo115pp/thumbnailer/v1
+module github.com/Gerardo115pp/thumbnailer
 
 go 1.13
 
